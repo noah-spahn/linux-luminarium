@@ -3,7 +3,7 @@ name: CSC/EGR 3003 Linux Labs
 image: pwncollege/challenge-legacy:latest
 type: welcome
 award:
-  emoji: 🐧
+  emoji: 🐍
 modules:
 - id: "hello"
 - id: "paths"
