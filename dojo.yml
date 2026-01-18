@@ -9,3 +9,7 @@ modules:
 - id: "paths"
 - id: "commands"
 - id: "man"
+- id: "globbing"
+#- id: "piping"
+#- id: "variables"
+#- id: "data"
