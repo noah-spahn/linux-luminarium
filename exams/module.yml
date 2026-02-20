@@ -1,4 +1,4 @@
-name: Python and Unix (3003) Module
+name: Exam 1 Module
 allow_privileged: false
 resources:
 - id: "exam1"
