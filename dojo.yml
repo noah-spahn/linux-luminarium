@@ -5,7 +5,7 @@ type: welcome
 award:
   emoji: 🐍
 modules:
-#- id: "exams"
+- id: "exams"
 - id: "hello"
 - id: "paths"
 - id: "commands"
