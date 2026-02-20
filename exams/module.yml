@@ -1,0 +1,6 @@
+name: Python and Unix (3003) Module
+allow_privileged: false
+resources:
+- id: "exam1"
+  name: "cat: not the pet, but the command!"
+  type: challenge
